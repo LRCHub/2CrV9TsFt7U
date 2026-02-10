@@ -1,0 +1,72 @@
+# アイアンフリル – Nope!!!!!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+La-La-La La La-La-La-La
+La-La-La La-La-La-La-La
+革命の時だ Let me do it my way
+身の丈?スカートは膝丈って
+(Out of date)
+So マスゲームの崩壊 Break out
+抑圧された世界へ…Bang!!!!
+先人が引いた白線を
+用意どんで走る兵隊
+整列に慣れてしまえば
+疑問も感じなくなるの?
+(No, I'm not!)
+全部 Noだ
+(To love oneself!)
+もっと Freedom
+(Love myself!)
+私は 私らしく行こう
+負けるな
+常識なんて脱ぎ捨てて
+Hu-hu-hu-
+量産なんてされるもんか
+Hu-hu-hu-
+上辺しか見ないマジョリティ
+Wowoh-
+評価され振り落とされる前に
+Wowoh-
+Everybody… Nope!!!
+La-La-La La La-La-La-La
+La-La-La La-La-La-La-La
+誰にdisられても平気よ
+悪意に構う暇はない
+(Keep your head up!)
+姿も見せない相手に負ける気がしない
+(No! I'm not!!)
+全部 Noだ
+(To love oneself!)
+もっと Feeling
+(Love yourself!)
+"私"を 本気で生きよう
+怯むな
+嘲笑なんて吹き飛ばして
+Hu-hu-hu-
+限界なんて後まわしで
+Hu-hu-hu-
+心はあげないマイノリティ
+Wowoh-
+群れるよりも孤独を選ぶのよ
+Wowoh-
+Everybody… Nope!!!
+幸せの価値観は
+自分で
+決めるものでしょう
+だから…
+だから…
+負けるな
+常識なんて脱ぎ捨てて
+Hu-hu-hu-
+量産なんてされるもんか
+Hu-hu-hu-
+上辺しか見ないマジョリティ
+Wowoh-
+評価され振り落とされる前に
+Wowoh-
+Everybody… Nope!!!!!
+La-La-La La La-La-La-La
+La-La-La La-La-La-La-La
+```
