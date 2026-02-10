@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Nope!!!!!",
+  "base_artist": "アイアンフリル",
+  "createdAt": "2026-02-10T05:59:29.567620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nope",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/01_Nope_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nope!!!!!",
+      "artist": "アイアンフリル",
+      "has_synced": true,
+      "path": "select/02_Nope!!!!!_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nope",
+      "artist": "Young Dro",
+      "has_synced": true,
+      "path": "select/03_Nope_Young_Dro.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nope",
+      "artist": "Wussy",
+      "has_synced": true,
+      "path": "select/04_Nope_Wussy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nope",
+      "artist": "Borgore",
+      "has_synced": true,
+      "path": "select/05_Nope_Borgore.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NOPE!",
+      "artist": "New Rules",
+      "has_synced": true,
+      "path": "select/06_NOPE!_New_Rules.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nope!!!!!",
+      "artist": "アイアンフリル",
+      "has_synced": true,
+      "path": "select/07_Nope!!!!!_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nope",
+      "artist": "Borgore & Dotcom feat. ShayGray",
+      "has_synced": true,
+      "path": "select/08_Nope_Borgore_&_Dotcom_feat._ShayGray.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nope (feat. T.I.)",
+      "artist": "Young Dro feat. T.I.",
+      "has_synced": true,
+      "path": "select/09_Nope_(feat._T.I.)_Young_Dro_feat._T.I..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nope (feat. ShayGray)",
+      "artist": "Borgore feat. Dotcom & ShayGray",
+      "has_synced": true,
+      "path": "select/10_Nope_(feat._ShayGray)_Borgore_feat._Dotcom_&_ShayGray.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nope (feat. ShayGray)",
+      "artist": "Borgore & Dotcom",
+      "has_synced": true,
+      "path": "select/11_Nope_(feat._ShayGray)_Borgore_&_Dotcom.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nope (feat. T.I.)",
+      "artist": "Young Dro",
+      "has_synced": true,
+      "path": "select/12_Nope_(feat._T.I.)_Young_Dro.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nope (feat. ShayGray)",
+      "artist": "Borgore",
+      "has_synced": true,
+      "path": "select/13_Nope_(feat._ShayGray)_Borgore.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ope Nope",
+      "artist": "Berens & Greuel",
+      "has_synced": true,
+      "path": "select/14_Ope_Nope_Berens_&_Greuel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nope!!!!!",
+      "artist": "アイアンフリル",
+      "has_synced": false,
+      "path": "select/pl_01_Nope!!!!!_アイアンフリル.txt"
+    }
+  ]
+}
